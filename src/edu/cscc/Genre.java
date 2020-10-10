@@ -1,0 +1,8 @@
+package edu.cscc;
+
+public enum Genre {
+	RACING, SIMULATION, ACTION, 
+	ADVENTURE, FIGHTING, PUZZLE,
+	RPG, SHOOTER, SPORTS,
+	STRATEGY,OTHER
+}
